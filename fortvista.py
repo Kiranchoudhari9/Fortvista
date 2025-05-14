@@ -14,7 +14,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 import os
 import webbrowser
-import speech_recognition as sr  # Import SpeechRecognition module
+import speech_recognition as sr  
 
 # --- Fort Data ---
 forts_data = {
