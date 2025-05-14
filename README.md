@@ -12,7 +12,6 @@ FortVista is a Python-based educational application that lets users explore the 
 
 
 ## 🛠 Technologies Used
->>>>>>> 415c1eb489cf8b8b92aa2419dddf7140aded218d
 - Python 3
 - Tkinter (GUI)
 - Pillow (Image processing)
@@ -20,5 +19,5 @@ FortVista is a Python-based educational application that lets users explore the 
 - Webbrowser module
 - Google Maps integration
 
-  ### images of forts
+  
   
